@@ -1,0 +1,26 @@
+{
+  "Apartment": [
+    {
+      "id": "2",
+      "name": "1 BHK Apartment for Rent in Thanisandra, Bengaluru",
+      "price": "80,000",
+      "Location": "Thanisandra, Bengaluru, Karnataka - 560045",
+      "bed": "3 Beds",
+      "bath": "3 baths",
+      "Furniture": "Furnitursed",
+      "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      " postedOn": "27/sep/2021"
+    },
+    {
+      "id": "5",
+      "name": "1 BHK Apartment f5or Rent in Thanisandra, Bengaluru",
+      "price": "55,000",
+      "Location": "Thanisandra, Bengaluru, Karnataka - 560045",
+      "bed": "3 Beds",
+      "bath": "3 baths",
+      "Furniture": "Furnitursed",
+      "image": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      " postedOn": "28/sep/2021"
+    }
+  ]
+}
